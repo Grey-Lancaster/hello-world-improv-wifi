@@ -18,10 +18,11 @@ This repository contains a simple example of using the [Improv WiFi Library](htt
 2. Connect your ESP32 to your computer via USB.
 3. Upload the code to your ESP32.
 4. Open a Serial Monitor (baud rate: `115200`) to interact with the device.
-5. Use the Improv WiFi protocol to send WiFi credentials via USB/Serial. You can use tools like the [Improv WiFi Web Serial Tool](https://improv-wifi.github.io/serial/).
+5. Use the Improv Wi-Fi protocol to send WiFi credentials via USB/Serial. You can use tools like the [Improv Wi-Fi Serial Tool](https://www.improv-wifi.com/serial/).
 
-**Note 1:** If your webflasher says "port fails to initialize," simply power off the ESP32 and try again.
+**Note 1:** If your web flasher indicates "port fails to initialize," simply power off the ESP32 and try again.
 
+**Note 2:** Once the firmware is flashed, you can configure WiFi directly from your browser using the [Improv Wi-Fi Serial Tool](https://www.improv-wifi.com/serial/).
 **Note 2:** Once the firmware is flashed, you can configure WiFi directly from your browser using a site like [https://jnthas.github.io/improv-wifi-demo/](https://jnthas.github.io/improv-wifi-demo/).
 
 ## How It Works
