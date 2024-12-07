@@ -22,7 +22,6 @@ This repository contains a simple example of using the [Improv WiFi Library](htt
 
 **Note 1:** If your web flasher indicates "port fails to initialize," simply power off the ESP32 and try again.
 
-**Note 2:** Once the firmware is flashed, you can configure WiFi directly from your browser using the [Improv Wi-Fi Serial Tool](https://www.improv-wifi.com/serial/).
 **Note 2:** Once the firmware is flashed, you can configure WiFi directly from your browser using a site like [https://jnthas.github.io/improv-wifi-demo/](https://jnthas.github.io/improv-wifi-demo/).
 
 ## How It Works
