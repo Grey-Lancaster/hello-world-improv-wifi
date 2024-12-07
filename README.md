@@ -27,7 +27,7 @@ This repository contains a simple example of using the [Improv WiFi Library](htt
   - **Three Long Blinks**: Error in configuration.
 - Once connected, the ESP32 starts a basic web server on port `80`.
 - Visit the device's IP address (e.g., `http://192.168.1.x`) to access the webpage.
-- **Note:** If your webflasher says "port fails to initialize," simply power off the ESP32 and try again.
+- **Note:** If your webflasher says "port failed to initialize," simply power off the ESP32 and try again.
 
 
 ## Example Output
