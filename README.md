@@ -18,7 +18,7 @@ This repository contains a simple example of using the [Improv WiFi Library](htt
 2. Connect your ESP32 to your computer via USB.
 3. Upload the code to your ESP32.
 4. Open a Serial Monitor (baud rate: `115200`) to interact with the device.
-5. Use the Improv WiFi protocol to send WiFi credentials via USB/Serial. You can use tools like the [Improv WiFi Web Serial Tool](https://improv-wifi.github.io/serial/).
+5. Use the Improv WiFi protocol to send WiFi credentials via USB/Serial. 
 
 ## How It Works
 - The onboard LED blinks during setup and connection to indicate the status:
